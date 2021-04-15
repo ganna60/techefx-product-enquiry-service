@@ -1,2 +1,2 @@
-# techefx-product-enquiry-service
-!. stage  PNG
+techefx-product-enquiry-service
+1st stage - no Descovery
